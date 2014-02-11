@@ -16,11 +16,12 @@
 
 package cocoa
 
-// #include "gomacdraw/gmd.h"
+// #include "gmd.h"
 import "C"
 
 import (
 	"fmt"
+
 	"github.com/skelterjohn/go.wde"
 	// "strings"
 )
